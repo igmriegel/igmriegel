@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning: Front and back end focused on Javascript. I'm also trying to embrace python <3.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm graduated as an accountant!
 
 [![Igor github stats](https://github-readme-stats.vercel.app/api?username=igmriegel)](https://github.com/igmriegel/github-readme-stats)
