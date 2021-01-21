@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: Front and back end focused on Javascript. I'm also trying to embrace python <3.
+- 🌱 I’m currently learning: Front and back end focused on Javascript. I'm also trying to embrace python :heart:.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm graduated as an accountant!
 
