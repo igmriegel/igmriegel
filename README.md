@@ -5,7 +5,11 @@
 - ⚡ Fun fact: I'm graduated as an accountant!
 
 ## My Github Stats:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=igmriegel&repo=github-readme-stats)](https://github.com/igmriegel/github-readme-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true&show_icons=true)
+![igmriegel's GitHub stats](https://github-readme-stats.vercel.app/api?username=igmriegel&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel)](https://github.com/igriegel/github-readme-stats)
+
+[![igmriegel wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=igmriegel)](https://github.com/igmriegel/github-readme-stats)
+
