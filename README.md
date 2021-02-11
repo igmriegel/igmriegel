@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning Fullstack web development at Trybe. I'm also trying to embrace python :heart:.
+- 🌱 I’m currently learning Full Stack web development at Trybe. I'm also trying to embrace python :heart:.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My background is in accounting!
 
