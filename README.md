@@ -11,4 +11,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel)
 
 ### My Octocat 😄 :
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617918975815.png" style="max-width:10%">
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617918975815.png" style="width:15px%">
