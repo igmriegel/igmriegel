@@ -6,12 +6,11 @@
 
 ## My Github Stats:
 <p align="center">
-  <img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true">
   <img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel">
+  <img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true">
+  <img align="right" width="300" height="300" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617918975815.png">
 </p>
 
-### My Octocat 😄 :
 
-<p align="center">
-  <img width="300" height="300" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617918975815.png">
-</p>
+
+
