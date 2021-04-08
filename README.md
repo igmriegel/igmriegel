@@ -5,9 +5,10 @@
 - ⚡ Fun fact: My background is in accounting!
 
 ## My Github Stats:
-
-<img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true">
-<img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel">
+<p align="center">
+  <img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true">
+  <img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel">
+</p>
 
 ### My Octocat 😄 :
 
