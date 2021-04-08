@@ -9,3 +9,6 @@
 ![igmriegel's GitHub stats](https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel)
+
+### My Octocat 😄 :
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617918975815.png">
