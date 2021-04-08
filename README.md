@@ -7,11 +7,5 @@
 - ⚡ Fun fact: My background is in accounting!
 
 ## My Github Stats:
-<p align="center">
-  <img align="left" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel">
-  <img align="right" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true">
-</p>
-
-
-
-
+<img align="left" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel">
+<img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true">
