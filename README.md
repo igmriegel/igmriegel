@@ -8,4 +8,4 @@
 
 ## My Github Stats:
 <img align="left" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igmriegel">
-<img align="left" width="500" height="500" src="https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true">
+<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=igmriegel&count_private=true">
