@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor Marcos Riegel</h1>
 <h3 align="center">A developer from Brazil fueled by coffee.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igmriegel&label=Profile%20views&color=0e75b6&style=flat" alt="igmriegel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igmriegel" alt="igmriegel" /></a> </p>
-
 - 🌱 I’m currently learning **web development at Trybe**
 
 - 👨‍💻 All of my projects are available at [https://igmriegel.github.io/](https://igmriegel.github.io/)
@@ -21,3 +17,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igmriegel&show_icons=true&locale=en&layout=compact" alt="igmriegel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igmriegel&show_icons=true&locale=en" alt="igmriegel" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igmriegel&label=Profile%20views&color=0e75b6&style=flat" alt="igmriegel" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igmriegel" alt="igmriegel" /></a> </p>
