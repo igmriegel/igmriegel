@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Igor Marcos Riegel</h1>
 <h3 align="center">A developer from Brazil fueled by ☕.</h3>
 
 - 🌱 I’m currently learning **web development at Trybe**
