@@ -1,4 +1,4 @@
-<h3 align="center">A developer from Brazil fueled by ☕.</h3>
+<h1 align="center">A developer from Brazil fueled by ☕.</h1>
 
 - 🌱 I’m currently learning **web development at Trybe**
 
