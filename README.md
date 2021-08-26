@@ -1,5 +1,3 @@
-<img align="right" width="300" height="300" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617918975815.png">
-
 <h1 align="center">Hi 👋, I'm Igor Marcos Riegel</h1>
 <h3 align="center">A developer from Brazil fueled by coffee.</h3>
 
@@ -7,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igmriegel" alt="igmriegel" /></a> </p>
 
-- 🌱 I’m currently learning **Python with Django and Flask**
+- 🌱 I’m currently learning **web development at Trybe**
 
 - 👨‍💻 All of my projects are available at [https://igmriegel.github.io/](https://igmriegel.github.io/)
 
@@ -23,6 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igmriegel&show_icons=true&locale=en&layout=compact" alt="igmriegel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igmriegel&show_icons=true&locale=en" alt="igmriegel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igmriegel&" alt="igmriegel" /></p>
-
