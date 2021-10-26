@@ -1,8 +1,13 @@
-<h1 align="center">A developer from Brazil fueled by ☕.</h1>
+<div>
+  <h1 align="center">A developer from Brazil fueled by ☕.</h1>
+  
+  <img align="right" src="https://user-images.githubusercontent.com/43209530/138936061-edb7e0a2-a38a-43a4-a4ee-089c637af076.png" height="200px"/>
 
-- 🌱 I’m currently learning **web development at Trybe**
-
-<!-- - 👨‍💻 All of my projects are available at [https://igmriegel.github.io/](https://igmriegel.github.io/) -->
+  <div align="left" height="200px">
+    - 🌱 I’m currently learning web development at Trybe
+  </div>
+  <!-- - 👨‍💻 All of my projects are available at [https://igmriegel.github.io/](https://igmriegel.github.io/) -->
+</div>
 
 <h3 align="left">📈 My stats:</h3>
 <p align="center">
