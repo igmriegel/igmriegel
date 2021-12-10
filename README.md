@@ -16,7 +16,7 @@
 <h3 align="left">📈 My stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igmriegel&show_icons=true&theme=github_dark&count_private=true" alt="igmriegel" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igmriegel&layout=compact&theme=github_dark" alt="igmriegel" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igmriegel&layout=compact&theme=github_dark&count_private=true" alt="igmriegel" height="150px"/>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=igmriegel&label=Profile%20views&color=0e75b6&style=flat" alt="igmriegel" /></p>
