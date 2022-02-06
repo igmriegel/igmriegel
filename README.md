@@ -25,7 +25,7 @@ I :heart: working with data, so the type of work I really like to do is backend 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-As I said, I :heart: work with data, to do some magic with data I can use (but I'm not limited to only those...)
+As I said, I :heart: work with data, to do some 🧙‍♂️ with data I these are a few of the tools I use.
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -33,7 +33,7 @@ As I said, I :heart: work with data, to do some magic with data I can use (but I
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-I can crush some data on excel too, but I think you don't wanna know about it...
+I can crush some data on ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) too, but I think you don't wanna know about it... 😧
 
 ---
 <p align="left">
