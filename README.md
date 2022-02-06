@@ -5,14 +5,11 @@
 
 ### 🌱 I’m currently learning development at Trybe
 
----
-
 I can write some code with ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).
 
-I've already dipped my toe on the waters of ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) and ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) but I'm not really used to work with them.
+I've already dipped my toe on the waters of ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) and ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) but I'm not really good at them.
 
----
 I :heart: working with data, so the type of work I really like to do is backend and to do some backend jobs I'm used to working with this set of tools:
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -25,7 +22,7 @@ I :heart: working with data, so the type of work I really like to do is backend 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-As I said, I :heart: work with data, to do some 🧙‍♂️ with data I these are a few of the tools I use.
+As I said, I :heart: working with data, to do some 🧙‍♂️ with data these are some of the tools I use.
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
