@@ -8,25 +8,19 @@ I'm a graduated acountant that decided to deep dive on tech.
 ### 🌱 I’m currently learning development at Trybe
 
 ## Programming Languages:
-I can program some stuff with these guys
 
+I can program some stuff with these guys 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-These are the ones I wanna learn next
-
+, these are the ones I wanna learn next 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-These I've already diped my toe on the water but I'm not really used to work with.
-
+ and these ones I've already diped my toe on the water but I'm not really used to work with them
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+.
 
 ---
-
-# The type of work I like to do:
-
 I :heart: working with data, so the type of work love to do is backend or do some magic with data.
 
 To do some backend job I'm used to work with this set of tools:
@@ -41,7 +35,7 @@ To do some backend job I'm used to work with this set of tools:
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-To do some magic with data I can use(but I'm not limited to only those...)
+To do some magic with data I can use (but I'm not limited to only those...)
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -52,12 +46,6 @@ To do some magic with data I can use(but I'm not limited to only those...)
 I can crush some data on excel too, but I think you don't wanna know about it...
 
 ---
-My daily drivers are:
-
-![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/igormriegel" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="igormriegel" /></a>
 </p>
