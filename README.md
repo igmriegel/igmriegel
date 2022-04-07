@@ -46,4 +46,7 @@ I can crush some data on ![Microsoft Excel](https://img.shields.io/badge/Microso
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igmriegel&layout=compact" alt="igmriegel" height="150px"/>
 </p>
 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+Cause life is better painted in black.
+
 <del>Is this a competition? 🤔</del>
