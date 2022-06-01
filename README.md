@@ -36,7 +36,6 @@ I can crush some data on ![Microsoft Excel](https://img.shields.io/badge/Microso
 <p align="left">
 <a href="https://linkedin.com/in/igormriegel" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="igormriegel" /></a>
 </p>
-
 </div>
 
 ### 📈 My stats:
@@ -46,7 +45,8 @@ I can crush some data on ![Microsoft Excel](https://img.shields.io/badge/Microso
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igmriegel&layout=compact" alt="igmriegel" height="150px"/>
 </p>
 
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-Cause life is better painted in black.
-
 <del>Is this a competition? 🤔</del>
+
+---
+
+![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg) _Cause life is better painted in black._
