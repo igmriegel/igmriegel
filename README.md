@@ -1,7 +1,7 @@
 <!-- - 👨‍💻 All of my projects are available at [https://igmriegel.github.io/](https://igmriegel.github.io/) -->
 <img align="right" src="https://user-images.githubusercontent.com/43209530/138936061-edb7e0a2-a38a-43a4-a4ee-089c637af076.png" height="300px"/>
 
-# Just some dude who love data 💻
+# Just some dude who loves working with data 😎
 
 I can write some code with ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 and ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).
