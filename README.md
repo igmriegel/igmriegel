@@ -37,6 +37,3 @@ I can crush some data on ![Microsoft Excel](https://img.shields.io/badge/Microso
 ---
 
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg) _Cause life is better painted in black._
-
-
-![data_scientist_associate_banner]()
