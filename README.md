@@ -1,5 +1,6 @@
 <!-- - 👨‍💻 All of my projects are available at [https://igmriegel.github.io/](https://igmriegel.github.io/) -->
-<img align="right" src="https://user-images.githubusercontent.com/43209530/138936061-edb7e0a2-a38a-43a4-a4ee-089c637af076.png" height="300px"/>
+<!-- <img align="right" src="https://user-images.githubusercontent.com/43209530/138936061-edb7e0a2-a38a-43a4-a4ee-089c637af076.png" height="300px"/> -->
+<img align="right" src="https://user-images.githubusercontent.com/43209530/226058941-96df0ad7-ffdb-40c3-b4b2-a9af8cdbace4.png">
 
 # Just some dude who loves working with data 😎
 
@@ -37,6 +38,5 @@ I can crush some data on ![Microsoft Excel](https://img.shields.io/badge/Microso
 
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg) _Cause life is better painted in black._
 
----
 
-![data_scientist_associate_banner](https://user-images.githubusercontent.com/43209530/226058941-96df0ad7-ffdb-40c3-b4b2-a9af8cdbace4.png)
+![data_scientist_associate_banner]()
