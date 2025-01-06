@@ -10,5 +10,3 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="igor.riegel@gmail.com" />
   </a>
 </p>
-
-<img align="center" src="https://user-images.githubusercontent.com/43209530/226058941-96df0ad7-ffdb-40c3-b4b2-a9af8cdbace4.png">
